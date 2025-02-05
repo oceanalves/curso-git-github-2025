@@ -13,3 +13,9 @@ rm  -> remove arquivo ou diretório
 
 43:39
 rm -rf   -> remove de forma recursiva e forçada todos diretórios
+
+
+
+Introdução ao Git e GitHub - BRANCHES
+9:20
+fodase
