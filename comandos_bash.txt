@@ -10,3 +10,6 @@ fodase
 33:00
 cat -> exibe conteúdo do arquivo
 rm  -> remove arquivo ou diretório
+
+43:39
+rm -rf   -> remove de forma recursiva e forçada todos diretórios
