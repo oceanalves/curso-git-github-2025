@@ -18,3 +18,17 @@ git log              -> Mostra todo o histórico de commit
 
 44:00
 git log              -> Mostra todo o histórico de commit
+
+
+Introdução ao Git e GitHub - BRANCHES
+6:49
+
+1. criar o diretório (pasta) do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "Mensagem estranha"
+8. git status
+9. volta para o passo 3
