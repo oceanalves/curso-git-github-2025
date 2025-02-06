@@ -17,3 +17,7 @@ Introdução ao Git e GitHub - BRANCHES
 28:07
 - Primeiro comando
 - Segundo comando
+
+31:11
+# Comandos mais genéricos
+- comandos estranhos
