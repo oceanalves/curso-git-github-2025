@@ -31,4 +31,10 @@ Introdução ao Git e GitHub - BRANCHES
 6. git status
 7. git commit -m "Mensagem estranha"
 8. git status
+
+Introdução ao Git e GitHub - RESOLVENDO CONFLITOS
+10:46
+git add nome_arquivo -> Adiciona arquivo para ser commitado
+git commit -m "msg"  -> Faz commit do que estava para ser commitado 
+7. git commit -m "Mensagem estranha"
 9. volta para o passo 3
